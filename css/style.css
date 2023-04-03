@@ -1,0 +1,18 @@
+.quesCard{
+    height: 60vh;
+    overflow: auto;
+}
+
+.answerQues{
+    cursor: pointer;
+}
+
+
+.answerQues:hover{
+    background-color: #ececec;
+}
+
+.checkBox{
+    float: left;
+    width: 12vh;
+}
